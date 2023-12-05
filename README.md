@@ -1,15 +1,16 @@
-# Shubham_kumar
+# Shubham_kumar 👨‍💻
+
 Hello World ! 👋 <br>
 Shubham Kumar(~subu26kumar)<br>
-Computer Science Engineer
+Computer Science Engineer🧑🏻‍💻
 <hr>
 Works on <br>
 <ul style="list-style-type:none;">
- <li>🟢 MERN-Stack </li>
- <li>🟢 Data Anyltics</li>
- <li>🟢 Web Developer</li>
- <li>🟢 Cloud and Web Security</li>
- <li>🟢 Active to Contribute in Open Source Projects</li>
+ <li>🌐 MERN-Stack </li> 
+ <li>📊 Data Anyltics</li>
+ <li>👨🏻‍💻 Web Developer</li>
+ <li>🛡️ Cloud and Web Security</li>
+ <li>🤝🏻 Active to Contribute in Open Source Projects</li>
 </ul>
  
 
