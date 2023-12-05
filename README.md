@@ -1,11 +1,13 @@
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 # Shubham_kumar 👨‍💻
 
 Hello World ! 👋 <br>
 Shubham Kumar(~subu26kumar)<br>
 Computer Science Engineer🧑🏻‍💻
 <hr>
-Works on <br>
-<ul style="list-style-type:none;">
+Works on <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+
+<br><ul style="list-style-type:none;">
  <li>🌐 MERN-Stack </li> 
  <li>📊 Data Anyltics</li>
  <li>👨🏻‍💻 Web Developer</li>
@@ -15,7 +17,7 @@ Works on <br>
  
 
 
-
+<br><br><br>
 <hr>
 
 About <br>
